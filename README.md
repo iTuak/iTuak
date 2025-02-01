@@ -1,4 +1,4 @@
-![Hopeless](https://github.com/equinnoxy/equinnoxy/blob/main/eswek.gif?raw=true)
+![Hopeless](https://filebin.net/oyicmkf6g21451qi/hopeless.gif?raw=true)
 
 # Hi, I'm SaeLy 👋 👨‍💻
 Nothing to see here, just go [here](https://discord.com/invite/secretweapon/) to see what i'm currently working on.
