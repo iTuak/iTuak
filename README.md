@@ -1,4 +1,4 @@
-![Hopeless](https://github.com/iTuak/iTuak/hopeless.gif?raw=true)
+![Hopeless](https://github.com/iTuak/iTuak/blob/main/hopeless.gif?raw=true)
 
 # Hi, I'm SaeLy 👋 👨‍💻
 Nothing to see here, just go [here](https://discord.com/invite/secretweapon/) to see what i'm currently working on.
